@@ -5,6 +5,7 @@
    1.1 사이트 접속 : https://opendart.fss.or.kr/mng/userApiKeyListView.do <br>
    1.2 인증키 신청 -> 약관에 동의 및 이메일과 비밀번호 등록 후 하단에 등록 버튼 클릭 <br>
    1.3 왼쪽 "인증키 관리" 항목에 발급받은 API KEY 확인 <br>
+   1.4 DART의 API KEY의 일일 제한량은 20000건, 사용에 유의
  <br>
   <br>
   
