@@ -20,6 +20,12 @@
    3.3 타입은 "연결재무제표", "손익계산서" 등으로 구성되어 있음 <br>
    3.4 분기날짜 아래 행들은 해당 항목의 데이터로 구성되어 있음. <br>
  <br>
+ DB 예시 <br>
+ <img width="901" alt="image" src="https://github.com/user-attachments/assets/545a0cce-2173-4b0f-a653-0a3087358415" />
+
+ <img width="1149" alt="image" src="https://github.com/user-attachments/assets/cc636a93-1f5f-4eb4-917a-c6ce751f84c1" />
+
+
 
 Further Update <br>
 1. Steamlit 을 이용하여 어플 형태로 제작할 예정 <br>
