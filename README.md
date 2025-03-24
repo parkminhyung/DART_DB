@@ -1,5 +1,5 @@
 # DART_DB
-공시시스템 DART에서 재무제표를 SQL의 db파일로 저장하는 코드입니다.
+- 공시시스템 DART에서 재무제표를 SQL의 db파일로 저장하는 코드입니다.
 
 1. DART에서 API KEY를 발급받아주세요 <br>
    1.1 사이트 접속 : https://opendart.fss.or.kr/mng/userApiKeyListView.do <br>
@@ -19,11 +19,13 @@
    3.2 항목은 매출액, 영업이익, 투자활동으로 인한 현금흐름 등의 여러 항목으로 구성되어 있음 <br>
    3.3 타입은 "연결재무제표", "손익계산서" 등으로 구성되어 있음 <br>
    3.4 분기날짜 아래 행들은 해당 항목의 데이터로 구성되어 있음. <br>
+   3.5 SQL기능을 이용하여 csv로 export 가능, 전처리 가능, 및 재무표를 클릭 후 ctrl+a (window) cmd+a(mac) 전체선택 후 복사 붙여넣기를 통해 프롬프트 입력 후 GPT 혹은 Glok 등 LLM모델을 이용하여 분석 가능 <br>
  <br>
- DB 예시 <br>
- <img width="901" alt="image" src="https://github.com/user-attachments/assets/545a0cce-2173-4b0f-a653-0a3087358415" />
+ DB 예시 (삼성전자)<br>
+ 
+<img width="1408" alt="image" src="https://github.com/user-attachments/assets/4fa62f61-f344-4b74-8c4a-fbc7c937a395" />
 
- <img width="1149" alt="image" src="https://github.com/user-attachments/assets/cc636a93-1f5f-4eb4-917a-c6ce751f84c1" />
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/97d5b3d4-74d9-4472-bb09-bb906c5ef29a" />
 
 
 
